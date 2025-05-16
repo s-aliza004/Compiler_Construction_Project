@@ -1,4 +1,4 @@
-📘 Compiler Design Project — First & Follow Set Generator
+📘 Compiler Construction Project — First & Follow Set Generator
 This project implements a basic First and Follow Set Generator for context-free grammars, written in Python. It is part of a compiler design coursework and demonstrates how to analyze a grammar to compute:
 
 FIRST sets – to identify possible starting terminals
